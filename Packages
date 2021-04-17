@@ -440,3 +440,18 @@ Section: Applications
 Description: An Apple Internal app. Needs an Apple Connect account to work. Outpost hosts two different apps once installed, which are Events and MyDemo.
 Author: Apple
 Name: Outpost
+
+Package: com.apple.ist.uibmobile
+Version: 10.2.6
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 11.0)
+Filename: ./debs/UniBox_V10.2.6.deb
+Size: 26213484
+MD5sum: df11a0fefb9fe4702980d0cb8c8a954d
+SHA1: 4e597356bbcef70b2ff194433ed8fa695cdcaefc
+SHA256: 81b9d970a7341b6efbd46ed589149b4ef9bc44bdd3deab29b39fede0ab8bfa5c
+Section: Applications
+Description: An Apple Internal app. Needs an Apple Connect account to work.
+Author: Apple
+Name: UniBox
