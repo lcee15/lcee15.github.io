@@ -1,0 +1,442 @@
+Package: com.t-k0.jupiter                         
+Version: 1.0                                      
+Architecture: iphoneos-arm                        
+Maintainer: T-K0                                  
+Depends: com.anemonetheming.anemone | com.spark.snowboard                                             
+Filename: ./debs/JupiterCydiaTheme_V1.0.deb            
+Size: 3222700
+MD5sum: 153e1dd16bb2eb5839c7e6744143ff92
+SHA1: 6ae5ac54319f2813d221b4896c705957d0de19cd
+SHA256: e646f95c175d32f74a0e2789628027868d13e52ae4ce242a75426eaa4d2b5299
+Section: Themes                                   
+Description: A theme with beautiful icons and little corners!  
+Author: T-K0                                      
+Name: Jupiter 🪐
+
+Package: com.rileytestut.Delta
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: 
+Filename: ./debs/DeltaEmu_V1.1.2.deb
+Size: 17307400
+MD5sum: f5a8b1ff28664449d22b35b45ef3ff4e
+SHA1: 30ed506ba4420f4e1bfd75bca308387f34ceef50
+SHA256: 2e9d1ed7d873877b52448bd93c3a3af4496245f1ff096887b419e545582ede94
+Section: Applications
+Description: Delta Emulator is an iOS multi-system emulator written from the bottom up by Riley Testut, the previous lead developer of popular emulator, GBA4iOS. Delta can emulate the following systems: NES, SNES, N64, GB, GBC, and GBA.
+Author: Riley Testut
+Name: Delta
+
+Package: com.rileytestut.Delta
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends:
+Filename: ./debs/DeltaEmu_V1.2.deb
+Size: 18242762
+MD5sum: 986caf144159335adca6a73f6fb1e8a7
+SHA1: 7a5a5f5dd71a1a48a1473fdf5055e96e75294aba
+SHA256: 75d8ccdda0830183ff6cdfe6f411f48ae52ed9d4687ce5caa6b1976e926df6f1
+Section: Applications
+Description: Delta Emulator is an iOS multi-system emulator written from the bottom up by Riley Testut, the previous lead developer of popular emulator, GBA4iOS. Delta can emulate the following systems: NES, SNES, N64, GB, GBC, GBA and DS(Beta).
+Author: Riley Testut
+Name: Delta
+
+Package: com.t-k0.phintrochargesound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/PHintroChargingSound.deb
+Size: 47918
+MD5sum: 1adb9d3557db88df58092e0e2946b0c1
+SHA1: 742da158b435904dbd199029aa71410cfc55dbc3
+SHA256: bbdcf077f4003258648df476da832fee4ee3c69f50c984517156ebef892b7fd0
+Section: Tweaks
+Description: You already know how it goes. ;) Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: PornHub intro Charging Sound
+
+Package: com.t-k0.yametekudasaichargesound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/YameteKudasaiChargingSound.deb
+Size: 32058
+MD5sum: e362ab26c7f9cc235ae6e6187d77e5eb
+SHA1: 261b4e16bfc9ea8f90d35168cc7910bd0076101c
+SHA256: a748cb1804b36a01e006f6a272747fc2b36c361e81d7bfc2f1cb44bb7b2c714f
+Section: Tweaks
+Description: Yamete Kudasai. UwU Apply via Snowboard or Anemone then respring to activate. (NSFW)
+Author: T-K0
+Name: Yamete Kudasai Charging Sound
+
+Package: com.apple.touchfighter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (<= 10.3.4)
+Filename: ./debs/TouchFighter.deb
+Size: 9879996
+MD5sum: aec104a200eb8d06a878ff64a44371f8
+SHA1: ae4514e3dbf5756b683b2d9d68297237f0009aa2
+SHA256: 2095a57d232c06447819ab2c8cb418bd5030cfca7333f861019db9fadcf0e01a
+Section: Applications
+Description: An Apple Internal game. Only works on iOS 5.0 through iOS 10.3.4
+Author: Apple
+Name: TouchFighter
+
+Package: winterboard
+Version: 0.9.3915
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate (>= 0.9.3225-1), killall, preferenceloader, libhide (>= 2.0.4), findutils, net.howett.pincrush (>= 0.0.1-23) | pincrush | firmware (<= 3.1.3)
+Filename: ./debs/WinterBoard_V0.9.3915.deb
+Size: 238800
+MD5sum: 7c38bd6f5b3d9c347372271afa7dff88
+SHA1: a0eaaf2b2c0a9691c1c20f8021e89b6d1f68661d
+SHA256: a1a5835ddb108509368bed5583dc22a79deab8e2e261ddac0bdf2dd54fa4767f
+Section: System
+Description: more powerful, open-source SummerBoard. This is a legacy version of WinterBoard that only works on iOS 3!
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Name: WinterBoard
+Depiction: http://cydia.saurik.com/info/winterboard/
+Homepage: http://www.saurik.com/id/9
+Breaks: jp.ashikase.folderenhancer (<< 1.6.0.2-1)
+Provides: theme-manager
+Conflicts: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Replaces: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Priority: optional
+
+Package: com.t-k0.nani
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/NaniChargingSound.deb
+Size: 18170
+MD5sum: 959785ee12bfd3a27b27942638a91c56
+SHA1: 088a12fcb45e2deea80e604545eb974b4ef2aa02
+SHA256: 12dcc664122bc8aa314d459f8459d98cbff34ed2ba6ba147267100cf54e80c09
+Section: Tweaks
+Description: NANI?! Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: Nani?! Charging Sound
+
+Package: com.t-k0.amongusimposter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/AmongUsImposterChargingSound.deb
+Size: 63504
+MD5sum: 6cb2c20ea0f4101ac6e7227774565f23
+SHA1: 757e8b204975179cc6d15b4549281a54010a32f9
+SHA256: a11dd5ae952e05eacdbf40604de1e334b035d4b13a713cfef89e4c59c75e73a5
+Section: Tweaks
+Description: Idk but Red be looking sus tho. Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: Among Us Imposter Charging Sound
+
+Package: com.t-k0.HaloShield
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/HaloShieldRechargeChargingSound.deb
+Size: 39786
+MD5sum: f2160e1bf2a565c23d04e1d2af19f366
+SHA1: 2d852cbf464ab91da36b42d1c82ecacbd0a65690
+SHA256: bd21403689d686530b0eca2cbcb33d35a3d73b7a17a33213199a004e3308a241
+Section: Tweaks
+Description: Your energy shields are down, take cover! Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: Halo Shield Recharge Sound
+
+Package: com.apple.phonemo
+Version: 2.16.3
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 11.0)
+Filename: ./debs/iCrowd_V2.16.3.deb
+Size: 3943228
+MD5sum: 4ec9982d24c371a8abe891aaf0c0d00f
+SHA1: c3052590b8475d2fedbfa3d905b6e845b96a9bbf
+SHA256: 5aa905bf93334346b6a1a0a4f9ca6ac743ed8ad1f1b8da3c483d79c4cb8cda79
+Section: Applications
+Description: An Apple Internal app.
+Author: Apple
+Name: iCrowd
+
+Package: com.apple.phonemo
+Version: 2.16.3
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 11.0)
+Filename: ./debs/iCrowd-eUAT_V2.16.3.deb
+Size: 3943472
+MD5sum: 830b9d28a6b1407cbe708671784268a3
+SHA1: d54b4d4261ed3bbe419b0ae7a20898e0ff912d36
+SHA256: 3227ef6947407c3ee9a8287223f90c9dd89d1b1855a4ed190266e13f38be629e
+Section: Applications
+Description: An Apple Internal app. eUAT Version, might or might NOT work.
+Author: Apple
+Name: iCrowd-eUAT
+
+Package: com.ist.apple.Bazaar
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 11.3)
+Filename: ./debs/OnePulse_V2.4.deb
+Size: 12965648
+MD5sum: 9450515ca99377a9e1fd6d8be63c9d95
+SHA1: 8e053eaf29b6ba10a74d0d67b6b523658cadc157
+SHA256: 97685108703525ae42f252d251359f70e3e613cee5ae24728fd68ecd0009d061
+Section: Applications
+Description: An Apple Internal app. OnePulse helps track and manage store operations across channel doors. Available for both iPhone and iPad, the app can be used to complete a wide variety of actions ranging from recording a sale to tracking inventory.
+Author: Apple
+Name: OnePulse
+
+Package: com.ist.apple.MyMessage
+Version: 4.0.2
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 12.0)
+Filename: ./debs/MyMessage_V4.0.2.deb
+Size: 39604076
+MD5sum: ed56d62b38d16fda113c5bae2e84742b
+SHA1: 8412dc66f882b9d66a8e0fb0072020a4efddbbb8
+SHA256: 8dc5b5249ad753b55669bb37be7607d713ee63ba61c36cbb65602417a3e29078
+Section: Applications
+Description: An Apple Internal app. MyMessage is used by Apple to communicate with field sales leaders throughout the world. Apple sends messages and surveys to introduce key initiatives, describe new product launch details, gather storefront feedback, and much more.
+Author: Apple
+Name: MyMessage
+
+Package: com.apple.ist.NetworkCheck
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 12.0)
+Filename: ./debs/NetworkCheck_V1.7.deb
+Size: 12526920
+MD5sum: 5b8c909c16c67b0d92c742390327b78a
+SHA1: 28b0da921115a4b7f4e96cde924958c9677ca7ea
+SHA256: 6a8080b1b6e9a7c2f7be93e525edd898ff0e9d0e02dcaac691bcc2da76d67b28
+Section: Applications
+Description: An Apple Internal app. The NetworkCheck app evaluates a Wi-Fi or Cellular network to determine if it meets the criteria for Apple Demo Programs.
+Author: Apple
+Name: NetworkCheck
+
+Package: com.apple.ist.sbm
+Version: 8.4.6
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 11.4.1)
+Filename: ./debs/SwitchBoard_V8.4.6.deb
+Size: 1264726
+MD5sum: 1c995de2d9b72c18de63255ca0b0266e
+SHA1: 1454c72a910e0392916b9a5d28e943798096df03
+SHA256: 2d492ff7a0c525b321e840d6f25bfd75db48d09caee796f03cbceb3e0d3d318e
+Section: Applications
+Description: An Apple Internal AppStore. Needs AppleConnect account to work.
+Author: Apple
+Name: Switchboard
+
+Package: org.coolstar.stash933
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 9.2), firmware (<= 9.3.6), org.coolstar.cctools
+Filename: ./debs/stash933.deb
+Size: 30438
+MD5sum: b671c00b8a4e98ad6f2d54e807c73dbf
+SHA1: 79657342bb3f4cc33b7d4980ab667c140fa41776
+SHA256: b8e5a25352732ed37e5f2688ec3350ae9f20589b28d4198818dffa71849b63da
+Section: System
+Description: Stash 3rd party components to make more space for them! Modified by T-K0 to work on 9.3.6
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: Stashing for iOS 9.2 - 9.3.6
+
+Package: com.t-k0.kyaa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/KyaaChargingSound.deb
+Size: 37186
+MD5sum: 10c55389c3ea7db9b6089226d374ceb5
+SHA1: d1784b9e5d8d6af07a6c978d20e7558ff08d78ac
+SHA256: 3b5732267eedf977f01921751b7a8c63b81fb7a0e0cb3578c23dbaf7e5e027e1
+Section: Tweaks
+Description: Kyaa! >_< Apply via Snowboard or Anemone then respring to activate. (NSFW)
+Author: T-K0
+Name: Kyaa! Charging Sound
+
+Package: com.t-k0.ara
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/AraChargingSound.deb
+Size: 26316
+MD5sum: f32de400d9db2cc84f231ef7fa16d8cd
+SHA1: f7f4783b6fef7ff040abea354cfb454f182e1634
+SHA256: 570cb0308f6e391da0386759df5306897a0947f6763494275fd81287d399926e
+Section: Tweaks
+Description: Ara Ara. Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: Ara Ara. Charging Sound
+
+Package: com.ist.apple.seed
+Version: 5.7
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: 
+Filename: ./debs/SEED_V5.7.deb
+Size: 8700346
+MD5sum: 1f9178b832331165d96c7b60514ce61c
+SHA1: d901c308558cc4a3538283463b46dd6bf1b6d5a2
+SHA256: 71289a66fff87c1ca9e540460ec3e84fa435f95f259c2a9a17faa5f0bb128bc9
+Section: Applications
+Description: The Sales Enablement, Education, and Development (SEED) app delivers sales and technical resources to Apple sales partners around the world.
+Author: Apple
+Name: SEED
+
+Package: com.ist.apple.seed
+Version: 5.8
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: 
+Filename: ./debs/SEED_V5.8.deb
+Size: 9210774
+MD5sum: 43b8b5ab1eb1a72b72aabc90b29379bc
+SHA1: efa61cddf264ac384ec7e112efd3cee75176b335
+SHA256: 5bbb77bbf3c81d215ffda12168434eec6196207f777224fffa0820ebcd31208b
+Section: Applications
+Description: The Sales Enablement, Education, and Development (SEED) app delivers sales and technical resources to Apple sales partners around the world.
+Author: Apple
+Name: SEED
+
+Package: com.ist.apple.seed
+Version: 5.9
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: 
+Filename: ./debs/SEED_V5.9.deb
+Size: 9215516
+MD5sum: ae59bf0450f827ae706fe534a40e75cc
+SHA1: 7ea0f31459d2b87de53ff0d942adb807994b494a
+SHA256: 22b726d13b31de1434673fd700bc257a020f8b9f14b262e3f6a16156e59729a9
+Section: Applications
+Description: The Sales Enablement, Education, and Development (SEED) app delivers sales and technical resources to Apple sales partners around the world.
+Author: Apple
+Name: SEED
+
+Package: com.t-k0.error
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/ErrorChargingSound.deb
+Size: 12620
+MD5sum: cbdec0d6ea7870abaa6ee8dca6c77ecd
+SHA1: ee6b175c631a7b9c50cec81e54abcbf848d5e185
+SHA256: 240c55d07a1ef3dfd040d39379bc8c06b3ddf521f89aee43f7fdc0b13bdee2c9
+Section: Tweaks
+Description: *Error.* Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: Windows XP Error Charging Sound
+
+Package: com.t-k0.coin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/CoinChargingSound.deb
+Size: 22504
+MD5sum: ce9772cf465ae872b9cd9972db363f20
+SHA1: cc4b570d316d8be5d3dbf81f834b690047662c9d
+SHA256: a996f62faca39b1bf6b69c4015108c9925c86fd544640eb1f023a50f294887e6
+Section: Tweaks
+Description: Mama Mia! Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: Mario Coin Charging Sound
+
+Package: com.t-k0.unggoy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/GruntChargingSound.deb
+Size: 68618
+MD5sum: e32c35e9c2dd0787b6098288d23d3d73
+SHA1: c6e7f1f6165f1fe32b2aa0493d940675f6148545
+SHA256: a2120da3460b0283f3ba1fd5b69ec8f50e02549641faed91d16954052cc0daa3
+Section: Tweaks
+Description: "Light a match..." Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: Grunt BDay Charging Sound 🎉
+
+Package: com.t-k0.sangheili
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.spark.snowboard.sounds
+Filename: ./debs/WortChargingSound.deb
+Size: 19502
+MD5sum: 5d13a7d2b3d74af8f094922f5b1f1840
+SHA1: a276fa363ae9ea4947f41b8fc92dfa72758bd843
+SHA256: d5df4c61a9d59be51eeccae65fba0ac2e9629372589adbd42dd8e0a8e938fcc2
+Section: Tweaks
+Description: Wort, Wort, Wort! Waaauggghhh! Apply via Snowboard or Anemone then respring to activate.
+Author: T-K0
+Name: Wort! Charging Sound
+
+Package: com.apple.ist.events
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 13.0)
+Filename: ./debs/Events_V4.4.1.deb
+Size: 8674042
+MD5sum: 5316c9cdf639352bc29017999e4d3b89
+SHA1: a3d75b0d04efa59fb397ad83a87dcab76adc164f
+SHA256: 443ad328346b887394c681a4a45728af475aaa37222005fd45528f35ff328968
+Section: Applications
+Description: An Apple Internal app. Events provides event organizers and attendees access to important information about their Apple-facilitated events. Organizers can check in attendees, loan devices, print badges, and more. Attendees can get updates and provide feedback about their events.
+Author: Apple
+Name: Events
+
+Package: com.apple.ist.training.staff
+Version: 2.6.2
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 13.0)
+Filename: ./debs/Staff_V2.6.2.deb
+Size: 3153988
+MD5sum: 3d6f9937e730e7cc7a04416b2db4d00d
+SHA1: 9a96fcdcd5907c506a547d738a2f448a860f321c
+SHA256: b4f781271b8abb5a89e71a3fe97a8ed3fff6c481ac4df62413e0ab0e7a8782ac
+Section: Applications
+Description: An Apple Internal app. MyDemo is a training App for Training Team and Reseller Partner staff.
+Author: Apple
+Name: MyDemo
+
+Package: com.apple.ist.outpost
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 9.0)
+Filename: ./debs/Outpost_V1.6.1.deb
+Size: 675684
+MD5sum: fbc7581336db5cf96b23bc25e0e5585b
+SHA1: 6af095ed750241608f2ed8bd9c730b16da02efa6
+SHA256: 6141ece36ed16684f14eacee8300224d2dc62b1328966f8094bfdd8f149455b3
+Section: Applications
+Description: An Apple Internal app. Needs an Apple Connect account to work. Outpost hosts two different apps once installed, which are Events and MyDemo.
+Author: Apple
+Name: Outpost
