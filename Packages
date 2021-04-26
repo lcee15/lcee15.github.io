@@ -257,7 +257,7 @@ MD5sum: 1c995de2d9b72c18de63255ca0b0266e
 SHA1: 1454c72a910e0392916b9a5d28e943798096df03
 SHA256: 2d492ff7a0c525b321e840d6f25bfd75db48d09caee796f03cbceb3e0d3d318e
 Section: Applications
-Description: An Apple Internal AppStore. Needs AppleConnect account to work.
+Description: An Apple Internal AppStore. Needs an AppleConnect account to work.
 Author: Apple
 Name: Switchboard
 
@@ -467,6 +467,21 @@ MD5sum: df11a0fefb9fe4702980d0cb8c8a954d
 SHA1: 4e597356bbcef70b2ff194433ed8fa695cdcaefc
 SHA256: 81b9d970a7341b6efbd46ed589149b4ef9bc44bdd3deab29b39fede0ab8bfa5c
 Section: Applications
-Description: An Apple Internal app. Needs an Apple Connect account to work.
+Description: An Apple Internal app. Needs an AppleConnect account to work.
 Author: Apple
 Name: UniBox
+
+Package: com.apple.ist.heisenberg
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>=11.0)
+Filename: ./debs/MySecurity_V2.8.deb
+Size: 13218088
+MD5sum: 2a0b56565e91fe253e89d6d2cbd58e6a
+SHA1: 527efa71a301e61538a50e5820c0dd420c695c5a
+SHA256: 3e2e95a6c4dbf29e793b6267b97b415ac0c7b5fc961822f1b68de0fa4be89fed
+Section: Applications
+Description: An Apple Internal app. This app is used for securing internal accounts and your iPhone. Needs an AppleConnect account to work.
+Author: Apple
+Name: MySecurity
