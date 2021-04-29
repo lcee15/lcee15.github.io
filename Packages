@@ -495,7 +495,7 @@ Filename: ./debs/PearlStoreDemo_V1.0.4.deb
 Size: 106390
 MD5sum: 80e83af43ae68aeb6efd1d8bfb78499c
 SHA1: 3fbc64ea8bbb8dba68d34b48a90de86cdce677c1
-SHA256: a01041b69d8cd549c9459d9bf849eb62ed5e02a6040958b4c0f8776695e071ba
+SHA256: 7a84cc04001b12f4ef2bd572ef109c90568c838f4d1ee1329ea89a328550af35
 Section: Applications
 Description: An Apple Demo app. PearlStoreDemo enables access to Face ID demo app. Normally found in Demo Units at Apple Stores, for buyers to test out the FaceID feature. Only works on devices with Face ID support. *Note: When using this app, your currently saved face(s) will be reset and the user will have to setup Face ID again, passcode will still be functional.*
 Author: Apple
