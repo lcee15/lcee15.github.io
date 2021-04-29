@@ -485,3 +485,18 @@ Section: Applications
 Description: An Apple Internal app. This app is used for securing internal accounts and your iPhone. Needs an AppleConnect account to work.
 Author: Apple
 Name: MySecurity
+
+Package: com.apple.FaceIDStoreDemo
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>=11.0)
+Filename: ./debs/PearlStoreDemo_V1.0.4.deb
+Size: 106390
+MD5sum: 80e83af43ae68aeb6efd1d8bfb78499c
+SHA1: 3fbc64ea8bbb8dba68d34b48a90de86cdce677c1
+SHA256: a01041b69d8cd549c9459d9bf849eb62ed5e02a6040958b4c0f8776695e071ba
+Section: Applications
+Description: An Apple Demo app. PearlStoreDemo enables access to Face ID demo app. Normally found in Demo Units at Apple Stores, for buyers to test out the FaceID feature. Only works on devices with Face ID support. *Note: When using this app, your currently saved face(s) will be reset and the user will have to setup Face ID again, passcode will still be functional.*
+Author: Apple
+Name: PearlStoreDemo
