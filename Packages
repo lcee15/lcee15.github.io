@@ -441,6 +441,21 @@ Description: An Apple Internal app. MyDemo is a training App for Training Team a
 Author: Apple
 Name: MyDemo
 
+Package: com.apple.ist.training.staff
+Version: 2.6.3
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>= 13.0)
+Filename: ./debs/MyDemo_V2.6.3.deb
+Size: 3155284
+MD5sum: c8e6b4c80aa5f1292f20b6d2bd688b72
+SHA1: badb66de878101005293027b4f9e70bffd509d8d
+SHA256: 4c2c62e1bb91aa1788790df0ae83dad95a0f08d8e4313015c2b4b98042c14969
+Section: Applications
+Description: An Apple Internal app. MyDemo is a training App for Training Team and Reseller Partner staff.
+Author: Apple
+Name: MyDemo
+
 Package: com.apple.ist.outpost
 Version: 1.6.1
 Architecture: iphoneos-arm
