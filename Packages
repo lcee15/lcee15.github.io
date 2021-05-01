@@ -231,6 +231,21 @@ Description: An Apple Internal app. MyMessage is used by Apple to communicate wi
 Author: Apple
 Name: MyMessage
 
+Package: com.ist.apple.MyMessage
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>=13.0)
+Filename: ./debs/MyMessage_V4.1.deb
+Size: 17434564
+MD5sum: 37ac59b40c1ed7c06ec7244bc2f25c75
+SHA1: 17466e1eeb7693c34a26dc5836de0be9b7d47dcd
+SHA256: fd4a6c2c54c4969e357beb4da56ac0de19c1fae506e1dcdbbab45f45f54edc28
+Section: Applications
+Description: An Apple Internal app. MyMessage is used by Apple to communicate with field sales leaders throughout the world. Apple sends messages and surveys to introduce key initiatives, describe new product launch details, gather storefront feedback, and much more.
+Author: Apple
+Name: MyMessage
+
 Package: com.apple.ist.NetworkCheck
 Version: 1.7
 Architecture: iphoneos-arm
