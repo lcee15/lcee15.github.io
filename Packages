@@ -366,6 +366,21 @@ Description: The Sales Enablement, Education, and Development (SEED) app deliver
 Author: Apple
 Name: SEED
 
+Package: com.ist.apple.seed
+Version: 5.10
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>=13.0)
+Filename: ./debs/SEED_V5.10.deb
+Size: 8977606
+MD5sum: 8137ef15670ad4e2a228b0080abf7dff
+SHA1: b73cffd95b7269b882f9f55c4e22dd4aba76b3e9
+SHA256: 2b7eb61528da9f42c5c561612c8217d538314ebfb8a308d89c27cd008c008700
+Section: Applications
+Description: The Sales Enablement, Education, and Development (SEED) app delivers sales and technical resources to Apple sales partners around the world.
+Author: Apple
+Name: SEED
+
 Package: com.t-k0.error
 Version: 1.0
 Architecture: iphoneos-arm
