@@ -542,6 +542,21 @@ MD5sum: 80e83af43ae68aeb6efd1d8bfb78499c
 SHA1: 3fbc64ea8bbb8dba68d34b48a90de86cdce677c1
 SHA256: 7a84cc04001b12f4ef2bd572ef109c90568c838f4d1ee1329ea89a328550af35
 Section: Applications
-Description: An Apple Demo app. PearlStoreDemo enables access to Face ID demo app. Normally found in Demo Units at Apple Stores, for buyers to test out the FaceID feature. Only works on devices with Face ID support. *Note: When using this app, your currently saved face(s) will be reset and the user will have to setup Face ID again, passcode will still be functional.*
+Description: An Apple Demo app. PearlStoreDemo enables access to Face ID demo app. Normally found in Demo Units at Apple Stores, for buyers to test out the Face ID feature. Only works on devices with Face ID support. *Note: When using this app, your currently saved face(s) will be reset and the user will have to setup Face ID again, passcode will still be functional.*
 Author: Apple
 Name: PearlStoreDemo
+
+Package: com.apple.MesaStoreDemo
+Version: 3.1.1
+Architecture: iphoneos-arm
+Maintainer: T-K0
+Depends: firmware (>=8.0)
+Filename: ./debs/MesaStoreDemo_V3.1.1.deb
+Size: 147708
+MD5sum: f97fb170d4f4f565fac450f6e10a86c6
+SHA1: 5da2e1974e2e64b13cd4d850d0c37db9998fceb8
+SHA256: 26d051c4a9a849e3776a3352ad3a01a7b580caeac52804949a5ca9bc56a2d5a5
+Section: Applications
+Description: An Apple Demo app. MesaStoreDemo enables access to Touch ID demo app. Normally found in Demo Units at Apple Stores, for buyers to test out the Touch ID feature. Only works on devices with Touch ID support. *Note: When using this app, your currently saved fingerprint(s) will be reset and the user will have to setup Touch ID again, passcode will still be functional.*
+Author: Apple
+Name: MesaStoreDemo
